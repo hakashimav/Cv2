@@ -55,8 +55,9 @@ header{
     border-radius: 10px;
     padding: 0em 3em;
 }
-@media screen
+@media all and (max-width: 768px)
 {
+    .bloc{
     display: block;
     background-color: #0f0f25f1;
     padding: 1em 1em;
@@ -66,4 +67,5 @@ header{
     border-radius: 5px;
     margin-top: -56px;
     color: rgba(255, 245, 238, 0.794);
+    }
 }

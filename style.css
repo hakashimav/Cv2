@@ -55,3 +55,15 @@ header{
     border-radius: 10px;
     padding: 0em 3em;
 }
+@media screen
+{
+    display: block;
+    background-color: #0f0f25f1;
+    padding: 1em 1em;
+    line-height: 30px;
+    width: 493px;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-top: -56px;
+    color: rgba(255, 245, 238, 0.794);
+}
